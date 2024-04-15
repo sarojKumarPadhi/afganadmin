@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "974072737552",
+    "project_id": "afgan-476fc",
+    "storage_bucket": "afgan-476fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974072737552:android:3ceda0b8c012a397d87f95",
+        "android_client_info": {
+          "package_name": "com.example.afganadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZGrSPVxWXbAu2fOiZM5arjTxRpNDE8so"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
